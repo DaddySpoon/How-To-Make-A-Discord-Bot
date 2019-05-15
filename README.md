@@ -1,8 +1,8 @@
 # How To Make A Discord Bot
 
 ### Links:
-https://discordapp.com/developers/applications/me
-https://nodejs.org
-https://discord.js.org
+<p>https://discordapp.com/developers/applications/me</p>
+<p>https://nodejs.org</p>
+<p>https://discord.js.org</p>
 
 ## First you will need to go [here](https://discordapp.com/developers/applications/me)
